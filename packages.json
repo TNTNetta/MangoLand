@@ -2,9 +2,9 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Mods Mangoland 2",
+      "title" : "MangoLand",
       "name" : "MangoLand",
-      "version" : "1.1.0",
+      "version" : "1.2.0",
       "location" : "mangoland.json",
       "priority" : 0
     }
