@@ -1,0 +1,52 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"Idk what this is": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.375,
+			"bones": {
+				"body": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"right_arm": {
+					"rotation": {
+						"0.0": {
+							"vector": [-1.33652, 0.27366, 1.33048]
+						},
+						"0.3333": {
+							"vector": [-30.60107, -7.65645, -18.36834]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.3333": {
+							"vector": [1, -1, -1]
+						}
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"0.0": {
+							"vector": [0.11302, 1.66157, -1.58527]
+						},
+						"0.3333": {
+							"vector": [-28.71648, 6.21722, 19.37897]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.3333": {
+							"vector": [-1, -1, -1]
+						}
+					}
+				}
+			}
+		}
+	}
+}
