@@ -3,7 +3,7 @@
   "packages" : [
     {
       "title" : null,
-      "name" : "MangoLand2",
+      "name" : "MangoLand",
       "version" : "2.0.0",
       "location" : "mangoland2.json",
       "priority" : 0
